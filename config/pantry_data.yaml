@@ -1,0 +1,19 @@
+unregistered_id:
+  - "123"
+  - "abcd-1234"
+  - "1_1_1"
+
+symbol_id:
+  - "###"
+  - "////"
+
+data_to_update:
+  - {"name": "Account updated","description": "Test account updated"} 
+  - {"name": "My account updated","description": "My testing account updated"}
+  - {"gender": "Female", "Age":"20", "name": "Only me correct"}
+
+wrong_key_to_update:
+  - {"price": "$100"}
+  - {"gender": "Male"}
+  - {"gender": "Female", "Age":"20", "named": "wrong"}
+  

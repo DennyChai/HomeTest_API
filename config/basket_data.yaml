@@ -1,0 +1,17 @@
+unknown_basket_name:
+  - "UnknownBasket"
+  - "UnexistBasket123"
+
+
+basket_content:
+- ["Mybasket", {"Type":"Tools", "Quality":"Bad"}]
+- ["FruitBasket", {"Type":"Fruits", "Quality":"Good"}]
+  
+
+basket_name:
+  - Mybasket
+  - FruitBasket
+
+basket_addition_content:
+- ["Mybasket", {"Type":"Any", "Quality":"Unknown"}]
+- ["FruitBasket", {"Type":"Fruits", "Quality":"Bad", "Quantity": 11}]
